@@ -1,0 +1,1 @@
+The dataset is taken from the Kaggle - https://www.kaggle.com/datasets/aksahaha/crop-recommendation/
